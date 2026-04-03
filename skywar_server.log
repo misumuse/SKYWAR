@@ -1,0 +1,16 @@
+[2026-04-03T19:35:14.587Z] [SERVER] SKYWAR Backend initialized
+[2026-04-03T19:35:14.589Z] [SERVER] Data file: C:\Users\Atrix\OneDrive\Documents\updated_project\skywar_users.json
+[2026-04-03T19:35:14.590Z] [SERVER] Dashboard available at http://localhost:3000
+[2026-04-03T19:35:14.590Z] [SERVER] Game client should connect to http://localhost:3000
+[2026-04-03T19:35:14.590Z] [SERVER] SKYWAR Server running on http://localhost:3000
+[2026-04-03T19:35:14.591Z] [SERVER] Dashboard: http://localhost:3000/dashboard
+[2026-04-03T19:36:10.663Z] [REGISTER] New pilot: VanillaAreux
+[2026-04-03T19:36:11.654Z] [LOGIN] VanillaAreux authenticated
+[2026-04-03T19:48:21.915Z] [SERVER] SKYWAR Backend initialized
+[2026-04-03T19:48:21.917Z] [SERVER] Data file: C:\Users\Atrix\OneDrive\Documents\updated_project\skywar_users.json
+[2026-04-03T19:48:21.918Z] [SERVER] Dashboard available at http://localhost:3000
+[2026-04-03T19:48:21.918Z] [SERVER] Game client should connect to http://localhost:3000
+[2026-04-03T19:48:21.919Z] [SERVER] SKYWAR Server running on http://localhost:3000
+[2026-04-03T19:48:21.919Z] [SERVER] Dashboard: http://localhost:3000/dashboard
+[2026-04-03T19:50:14.167Z] [LOGIN] VanillaAreux authenticated
+[2026-04-03T19:53:19.116Z] [ADMIN] Deleted user: VanillaAreux
